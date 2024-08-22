@@ -1,0 +1,12 @@
+{
+	"city": "string",
+	"country": "string",
+	"email": "string",
+	"firstName": "string",
+	"gender": "MALE",
+	"lastName": "string",
+	"password": "string",
+	"phone": 0,
+	"state": "string",
+	"zoneId": "string"
+}
